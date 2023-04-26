@@ -78,8 +78,3 @@ O Compose é uma ferramenta bastante adotada no mundo Android (conhecido como Je
 
 Por fim, se você quiser uma introdução maior do Compose, você pode conferir este Alura+ que explica o que é o Jetpack Compose, mesmo focando no Android, muitos dos conceitos são reaproveitados. Também, o Jetpack Compose Playground armazena diversos conteúdos com exemplos de implementação.
 Ah, e não se esqueça de compartilhar o seu código no seu GitHub e marcar a gente nas suas redes sociais com a hashtag #7DaysOfCode, e também com #feedback7DoC caso você queira alguma ajuda.
-
-Bom trabalho!
-
-Alex Felipe
-Tech Lead e instrutor na Alura
