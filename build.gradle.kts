@@ -23,6 +23,7 @@ kotlin {
         val jvmMain by getting {
             dependencies {
                 implementation(compose.desktop.currentOs)
+                implementation("io.coil-kt:coil:2.3.0")
             }
         }
         val jvmTest by getting
@@ -39,3 +40,4 @@ compose.desktop {
         }
     }
 }
+
